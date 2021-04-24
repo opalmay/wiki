@@ -107,6 +107,7 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - Jay Lee ([@polyglotm](https://github.com/polyglotm))
 - Kelly Wardrop ([@dropcoded](https://github.com/dropcoded))
 - Loki ([@binaryloki](https://github.com/binaryloki))
+- Marcilio Leite Neto ([@marclneto](https://github.com/marclneto))
 - Mattias Johnson ([@mattiasJohnson](https://github.com/mattiasJohnson))
 - Mitchell Rowton ([@mrowton](https://github.com/mrowton))
 - M. Scott Ford ([@mscottford](https://github.com/mscottford))
@@ -248,6 +249,7 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Matt Gedigian
 - Patryk
 - Philipp Schürch
+- Tracey Duffy
 - Richeir
 - SmartNET.works
 - Stepan Sokolovskyi
